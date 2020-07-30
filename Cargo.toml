@@ -1,5 +1,5 @@
 [package]
-name = "weather"
+name = "wttr"
 version = "0.1.0"
 authors = ["Carter Himmel <me@fyko.net>"]
 edition = "2018"
