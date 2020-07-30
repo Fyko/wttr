@@ -1,0 +1,15 @@
+name: wttr
+version: 0.1.0
+author: Carter Himmel <me@fyko.net>
+about: CLI tool for listing the weather
+args:
+  - short:
+      help: Wether or not to display a smaller view
+      short: s
+      long: short
+      global: true
+  - pretty:
+      help: Wether or not to display a prettier view
+      short: p
+      long: pretty
+      global: true
