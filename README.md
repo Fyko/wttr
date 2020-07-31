@@ -1,20 +1,9 @@
-<div align="center">
-  <!-- Github Actions -->
-  <img src="https://img.shields.io/github/workflow/status/fyko/wttr/SQLx?style=flat-square" alt="actions status" />
-  <!-- Version -->
-  <a href="https://crates.io/crates/wttr">
-    <img src="https://img.shields.io/crates/v/wttr.svg?style=flat-square"
-    alt="Crates.io version" />
-  </a>
-  <!-- Downloads -->
-  <a href="https://crates.io/crates/wttr">
-    <img src="https://img.shields.io/crates/d/wttr.svg?style=flat-square"
-      alt="Download" />
-  </a>
-</div>
+# ☁ wttr cli
+[![Actions](https://img.shields.io/github/workflow/status/fyko/wttr/wttr?style=flat)](https://github.com/Fyko/wttr/actions)
+[![Crate](https://img.shields.io/crates/v/wttr.svg?style=flat)](https://crates.io/crates/wttr)
+[![Downloads](https://img.shields.io/crates/d/wttr.svg?style=flat)](https://crates.io/crates/wttr)
 
-# wttr cli
-a cli app to interact with https://wttr.in/ via the CLI -- super bare-bones
+a cli app to interact with https://wttr.in/ via the CLI -- super bare-bones  
 
 ## installing
 ```sh
